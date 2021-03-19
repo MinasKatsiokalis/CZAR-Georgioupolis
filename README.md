@@ -5,7 +5,7 @@ Theme: "Outdoors Mobile Aygmented Reality, for Coastal Erosion Visualization bas
 
 ![image](https://i.imgur.com/jeTNp9O.png)
 
-Watch a [video demonstration](https://youtu.be/mebX0PmNSKM)
+-Watch a [video demonstration](https://youtu.be/mebX0PmNSKM)
 
 ## Technologies/Frameworks/SDKs/Packages
 - Unity3D 2020.2
